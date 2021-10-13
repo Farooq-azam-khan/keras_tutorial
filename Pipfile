@@ -8,6 +8,8 @@ tensorflow-gpu = "*"
 numpy = "*"
 pydot = "*"
 tqdm = "*"
+pandas = "*"
+transformers = "*"
 
 [dev-packages]
 ipykernel = "*"
