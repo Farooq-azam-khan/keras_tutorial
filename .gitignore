@@ -2,3 +2,4 @@ models
 aclImdb 
 *.gz 
 SNLI_Corpus
+data
